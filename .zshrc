@@ -92,6 +92,7 @@ plugins=(git
         node
         nvm
         npm
+        vscode
 )
 
 source $ZSH/oh-my-zsh.sh
